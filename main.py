@@ -63,7 +63,7 @@ async def chat_completions():
                 # {"type": "image"},
                 {
                     "type": "text",
-                    "text": "beautiful F-mor-U-ning-C-K.",
+                    "text": "beautiful morning",
                 },
             ],
         },
