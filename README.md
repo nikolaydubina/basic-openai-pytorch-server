@@ -8,7 +8,7 @@ Minimal HTTP inference server in OpenAI API[^1].
 - 100 lines of code
 - CUDA
 - Pytorch
-- HuggingFace models (e.g. LLAMA 3.2 11B Vision)
+- HuggingFace models (e.g. Llama 3.2 11B Vision)
 - OpenTelemetry
 
 [^1]: https://github.com/openai/openai-openapi
