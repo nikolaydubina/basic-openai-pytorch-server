@@ -1,0 +1,10 @@
+fastapi[standard]
+pydantic
+transformers
+torch
+torchvision
+accelerate>=0.26.0
+uvicorn
+opentelemetry-distro
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp
