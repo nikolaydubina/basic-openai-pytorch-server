@@ -8,3 +8,5 @@ uvicorn
 opentelemetry-distro
 opentelemetry-instrumentation-fastapi
 opentelemetry-exporter-otlp
+requests
+pillow

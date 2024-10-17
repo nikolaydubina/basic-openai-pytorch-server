@@ -10,5 +10,6 @@ Minimal HTTP inference server in OpenAI API[^1].
 - Pytorch
 - HuggingFace models (e.g. Llama 3.2 11B Vision)
 - OpenTelemetry
+- JSON schema output
 
 [^1]: https://github.com/openai/openai-openapi
