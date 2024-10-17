@@ -3,7 +3,7 @@ Minimal HTTP inference server in OpenAI API[^1].
 > _When you don't want to install countless frameworks, generators, etc. When all you need is small Docker file and single main for http server._
 
 > [!WARNING]  
-> Under development. Limited OpenAI API compatibility.
+> Limited OpenAI API compatibility.
 
 - 100 lines of code
 - CUDA
