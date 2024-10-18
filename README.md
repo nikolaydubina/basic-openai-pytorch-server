@@ -11,5 +11,6 @@ Minimal HTTP inference server in OpenAI API[^1].
 - HuggingFace models (e.g. Llama 3.2 11B Vision)
 - OpenTelemetry
 - JSON schema output
+- 150 token/s: NVIDIA L4 (GCP `g2-standard-8`) Llama 3.2 11B Vision Instruct
 
 [^1]: https://github.com/openai/openai-openapi
