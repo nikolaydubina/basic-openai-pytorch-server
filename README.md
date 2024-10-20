@@ -1,6 +1,6 @@
 Minimal HTTP inference server in OpenAI API[^1].
 
-[![Hits](https://hits.sh/github.com/nikolaydubina/basic-openai-pytorch-server.svg)](https://hits.sh/github.com/nikolaydubina/basic-openai-pytorch-server/)
+[![Hits](https://hits.sh/github.com/nikolaydubina/basic-openai-pytorch-server.svg?view=today-total)](https://hits.sh/github.com/nikolaydubina/basic-openai-pytorch-server/)
 
 > _When you don't want to install countless frameworks, generators, etc. When all you need is small Docker file and single main for http server._
 
